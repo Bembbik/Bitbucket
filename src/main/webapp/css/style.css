@@ -1,0 +1,18 @@
+/* Собственные стили приложения (дополняют Bootstrap) */
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+.page-footer {
+    background: #d7d7d7;
+}
+
+#top-image {
+    border-radius: 12px;
+}
